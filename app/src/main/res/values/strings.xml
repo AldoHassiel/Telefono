@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Telefono</string>
+    <string-array name="Contacto">
+        <item>Paloma</item>
+        <item>Yaritza</item>
+        <item>Liz</item>
+        <item>Carlos</item>
+    </string-array>
+</resources>
